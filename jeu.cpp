@@ -62,9 +62,6 @@ void Jeu::initialiserjeu(){
 
 
 
-
-   // QMessageBox::information(this, "attendez que la distribution se termine ,puis cliquez sur votre carte ", message);
-
     // Mettre à jour l'interface graphique pour montrer le dos des cartes dans le label
     QPixmap dos(":/imgcarte/backcard.jpg");
 
